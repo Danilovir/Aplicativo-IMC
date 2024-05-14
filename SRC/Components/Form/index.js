@@ -57,7 +57,7 @@ export default function Form(){
             />
 
         </View>
-    <ResultImc messageResultImc={messageImc} ResultImc={imc}/>
+    <ResultImc messageResultImc={messageImc} resultImc={imc}/>
         </View>
     );
 }
